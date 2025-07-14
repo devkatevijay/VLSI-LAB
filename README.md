@@ -58,7 +58,7 @@ This project is for academic use only under MIT License.
 
 ## 👨‍🎓 Author
 
-- Name: **[Your Name]**
-- College: **[Your College Name]**
+- Name: **[DEVKATEVIJAY]**
+- College: **[IIITG]**
 - Roll No: `2201063`
 
